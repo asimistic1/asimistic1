@@ -123,13 +123,35 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<!-- ============ STATS ============ -->
-## 📊 &nbsp;GitHub stats
+<!-- ============ CURRENTLY BUILDING ============ -->
+## 🚀 &nbsp;Currently building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Scaling OmniMenu</h3>
+      Growing Pakistan's first restaurant OS — shipping 3D &amp; AR menus,
+      a real-time Kitchen Display System, and AI-driven marketing &amp; analytics
+      for modern restaurants.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI agents &amp; tooling</h3>
+      Building autonomous AI agents and refining prompt-engineering workflows —
+      turning applied deep AI into features that ship inside real products.
+    </td>
+  </tr>
+</table>
+
+<!-- ============ CONNECT ============ -->
+## 🤝 &nbsp;Let's connect
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asimistic1&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimistic1&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" />
+  <a href="https://omnimenu.one"><img src="https://img.shields.io/badge/Website-omnimenu.one-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:founder@omnimenu.one"><img src="https://img.shields.io/badge/Business-founder@omnimenu.one-FF6B4A?style=for-the-badge&logo=gmail&logoColor=white" alt="Business email"/></a>
+  <a href="mailto:asimfalak120@gmail.com"><img src="https://img.shields.io/badge/Personal-asimfalak120@gmail.com-F5A623?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
+  <!-- Optional — add your LinkedIn, then delete this comment:
+  <a href="ADD_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  -->
 </p>
 
 <!-- ============ FOOTER ============ -->
