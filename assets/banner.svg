@@ -1,0 +1,80 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OmniMenu - Pakistan's First Restaurant Operating System">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1A0B2E"/>
+      <stop offset="0.48" stop-color="#5B1E77"/>
+      <stop offset="1" stop-color="#C0367F"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE0A3"/>
+      <stop offset="1" stop-color="#F5A623"/>
+    </linearGradient>
+    <radialGradient id="glowCoral" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B4A" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FF6B4A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGold" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFB347" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#FFB347" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+
+  <!-- ambient glows -->
+  <circle cx="1060" cy="40" r="250" fill="url(#glowCoral)"/>
+  <circle cx="90" cy="330" r="220" fill="url(#glowGold)"/>
+
+  <!-- faint dot grid texture -->
+  <g fill="#FFFFFF" fill-opacity="0.05">
+    <circle cx="70" cy="40" r="2"/><circle cx="110" cy="40" r="2"/><circle cx="150" cy="40" r="2"/>
+    <circle cx="70" cy="80" r="2"/><circle cx="110" cy="80" r="2"/><circle cx="150" cy="80" r="2"/>
+  </g>
+
+  <!-- signature: stacked digital-menu cards (3D / AR depth) -->
+  <g>
+    <rect x="946" y="132" width="196" height="150" rx="16" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFD27D" stroke-opacity="0.25"/>
+    <rect x="922" y="112" width="196" height="150" rx="16" fill="#FFFFFF" fill-opacity="0.11" stroke="#FFD27D" stroke-opacity="0.35"/>
+    <g>
+      <rect x="898" y="90" width="206" height="158" rx="18" fill="#FFFFFF" fill-opacity="0.16" stroke="#FFD27D" stroke-opacity="0.6"/>
+      <!-- QR motif -->
+      <g fill="#FFE0A3" fill-opacity="0.9">
+        <rect x="920" y="112" width="10" height="10" rx="2"/><rect x="934" y="112" width="10" height="10" rx="2"/><rect x="962" y="112" width="10" height="10" rx="2"/>
+        <rect x="920" y="126" width="10" height="10" rx="2"/><rect x="948" y="126" width="10" height="10" rx="2"/><rect x="976" y="126" width="10" height="10" rx="2"/>
+        <rect x="934" y="140" width="10" height="10" rx="2"/><rect x="962" y="140" width="10" height="10" rx="2"/><rect x="976" y="140" width="10" height="10" rx="2"/>
+      </g>
+      <!-- menu lines -->
+      <rect x="1006" y="116" width="76" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.55"/>
+      <rect x="1006" y="132" width="58" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.35"/>
+      <rect x="1006" y="148" width="66" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.35"/>
+      <!-- plate + price row -->
+      <circle cx="932" cy="196" r="18" fill="none" stroke="#FF6B4A" stroke-width="3" stroke-opacity="0.85"/>
+      <circle cx="932" cy="196" r="8" fill="#FF6B4A" fill-opacity="0.85"/>
+      <rect x="962" y="182" width="120" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.45"/>
+      <rect x="962" y="200" width="90" height="10" rx="5" fill="#FFFFFF" fill-opacity="0.3"/>
+      <!-- AR badge -->
+      <rect x="1006" y="220" width="76" height="18" rx="9" fill="url(#gold)"/>
+      <text x="1044" y="233" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="#3A1D00" text-anchor="middle" letter-spacing="1">3D · AR</text>
+    </g>
+  </g>
+
+  <!-- eyebrow pill -->
+  <rect x="60" y="52" width="292" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFD27D" stroke-opacity="0.45"/>
+  <circle cx="82" cy="69" r="5" fill="#3FE08A"/>
+  <text x="98" y="74" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FFE7C2" letter-spacing="2">PAKISTAN'S FIRST RESTAURANT OS</text>
+
+  <!-- title -->
+  <text x="56" y="176" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="-1">
+    <tspan fill="#FFFFFF">Omni</tspan><tspan fill="url(#gold)">Menu</tspan>
+  </text>
+
+  <!-- tagline -->
+  <text x="60" y="216" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#F3E8FF">The all-in-one Restaurant Operating System</text>
+
+  <!-- feature line -->
+  <text x="60" y="252" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500" fill="#E9D5FF" letter-spacing="0.5">3D &amp; AR Menus  ·  QR Ordering  ·  Kitchen Display  ·  POS  ·  AI Marketing &amp; Analytics</text>
+
+  <!-- accent underline -->
+  <rect x="60" y="270" width="150" height="5" rx="2.5" fill="url(#gold)"/>
+</svg>
