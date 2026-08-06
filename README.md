@@ -4,7 +4,7 @@
 </p>
 
 <!-- ============ NAME ============ -->
-<h4 align="center">Hi, I'm Asim Ibn.e Falak 👋</h4>
+<h1 align="center">Hi, I'm Asim Ibn.e Falak 👋</h1>
 
 <!-- ============ ANIMATED HEADLINE ============ -->
 <p align="center">
