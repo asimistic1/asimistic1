@@ -4,7 +4,7 @@
 </p>
 
 <!-- ============ NAME ============ -->
-<h1 align="center">Hi, I'm Asim Ibn.e Falak 👋</h1>
+<h2 align="center">Hi, I'm Asim Ibn.e Falak 👋</h2>
 
 <!-- ============ ANIMATED HEADLINE ============ -->
 <p align="center">
@@ -47,20 +47,26 @@
 </td></tr>
 </table>
 
+> **Why I build.** OmniMenu started with a simple frustration — restaurants around me still ran on paper, guesswork, and a dozen disconnected tools. I wanted to give them one platform that just *works*. That same drive shapes everything I do: take a hard problem, build something real, and make it genuinely useful for the people using it.
+>
+> I learn by shipping, I move fast, and I care as much about a clean interface as I do about the system behind it. Right now I'm pushing hard at the intersection of **AI and real-world products** — building agents, refining prompts, and turning ambitious ideas into things people actually rely on. If you're building something bold, I'd love to talk. 🚀
+
 <!-- ============ FLAGSHIP ============ -->
 ## 🍽️ &nbsp;Flagship — OmniMenu
 
 > **The all-in-one operating system for modern restaurants.** Everything below runs on one platform.
 
-<table>
-  <tr>
-    <td align="center" width="20%">🕶️<br/><b>3D & AR Menus</b><br/><sub>Immersive dishes</sub></td>
-    <td align="center" width="20%">📱<br/><b>QR Ordering</b><br/><sub>Scan &amp; order</sub></td>
-    <td align="center" width="20%">🍳<br/><b>Kitchen Display</b><br/><sub>Live KDS</sub></td>
-    <td align="center" width="20%">💳<br/><b>POS</b><br/><sub>Integrated payments</sub></td>
-    <td align="center" width="20%">🤖<br/><b>AI Analytics</b><br/><sub>Marketing &amp; insights</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/omnimenu-showcase.svg" alt="OmniMenu — 3D & AR menus, QR ordering, Kitchen Display, POS, AI Analytics" width="100%"/>
+</p>
+
+<p align="center">
+  <b>🕶️ 3D &amp; AR Menus</b> &nbsp;·&nbsp; <b>📱 QR Ordering</b> &nbsp;·&nbsp; <b>🍳 Kitchen Display</b> &nbsp;·&nbsp; <b>💳 POS</b> &nbsp;·&nbsp; <b>🤖 AI Analytics</b>
+</p>
+
+<!-- 👇 OPTIONAL: replace the line below with a real screen-recording GIF of OmniMenu for maximum impact:
+<p align="center"><img src="assets/omnimenu-demo.gif" alt="OmniMenu live demo" width="80%"/></p>
+-->
 
 <p align="center">
   <a href="https://omnimenu.one"><img src="https://img.shields.io/badge/Explore_the_platform_→-1A0B2E?style=for-the-badge" alt="Explore"/></a>
@@ -152,6 +158,31 @@
   <!-- Optional — add your LinkedIn, then delete this comment:
   <a href="ADD_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   -->
+</p>
+
+<!-- ============ GITHUB STATS ============ -->
+## 📊 &nbsp;GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asimistic1&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=F5A623&icon_color=FF6B4A" alt="Stats"/>
+  &nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=asimistic1&theme=midnight-purple&hide_border=true&stroke=F5A623&ring=FF6B4A&fire=FF6B4A&currStreakLabel=F5A623" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimistic1&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8&title_color=F5A623" alt="Top languages"/>
+</p>
+
+<!-- ============ CONTRIBUTION ACTIVITY GRAPH ============ -->
+## 📈 &nbsp;Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimistic1&bg_color=160925&color=F5A623&line=C0367F&point=FFD27D&area=true&area_color=6C2BD9&hide_border=true&custom_title=OmniMenu%20Contribution%20Activity" alt="Contribution activity graph" width="100%"/>
+</p>
+
+<!-- ============ SNAKE (live motion — needs the GitHub Action, see setup) ============ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asimistic1/asimistic1/output/snake.svg" alt="Contribution snake animation" width="100%"/>
 </p>
 
 <!-- ============ FOOTER ============ -->
