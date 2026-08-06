@@ -1,0 +1,141 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OmniMenu product showcase - 3D/AR menus, QR ordering, kitchen display, POS, AI analytics">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#160925"/>
+      <stop offset="0.5" stop-color="#4A1D6A"/>
+      <stop offset="1" stop-color="#B0327A"/>
+    </linearGradient>
+    <linearGradient id="gold2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFE0A3"/><stop offset="1" stop-color="#F5A623"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF6B4A" stop-opacity="0.5"/><stop offset="1" stop-color="#FF6B4A" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round2"><rect width="1200" height="420" rx="26"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round2)">
+    <rect width="1200" height="420" fill="url(#bg2)"/>
+    <circle cx="1060" cy="50" r="270" fill="url(#glow2)"/>
+    <circle cx="120" cy="390" r="220" fill="url(#glow2)" opacity="0.6"/>
+
+    <!-- particles -->
+    <g fill="#FFD27D">
+      <circle cx="470" cy="90" r="3" opacity="0.7">
+        <animate attributeName="cy" values="90;68;90" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="600" cy="360" r="2.5" opacity="0.6">
+        <animate attributeName="cy" values="360;338;360" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1120" cy="300" r="2.5" opacity="0.5">
+        <animate attributeName="cy" values="300;280;300" dur="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- brand wordmark -->
+    <text x="42" y="54" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="24" font-weight="800">
+      <tspan fill="#FFFFFF">Omni</tspan><tspan fill="#FFD27D">Menu</tspan>
+    </text>
+    <text x="44" y="76" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="11" font-weight="600" fill="#E9D5FF" letter-spacing="2">ONE PLATFORM · EVERY SERVICE</text>
+
+    <!-- PHONE -->
+    <g transform="translate(120,104)">
+      <rect x="0" y="0" width="230" height="300" rx="26" fill="#0E0620" stroke="#FFD27D" stroke-opacity="0.35" stroke-width="2"/>
+      <rect x="14" y="16" width="202" height="268" rx="16" fill="#1B0E33"/>
+      <rect x="30" y="34" width="90" height="12" rx="6" fill="url(#gold2)"/>
+      <rect x="30" y="52" width="150" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.25"/>
+      <rect x="30" y="80" width="170" height="46" rx="10" fill="#FFFFFF" fill-opacity="0.06"/>
+      <circle cx="52" cy="103" r="14" fill="#FF6B4A" fill-opacity="0.85"/>
+      <rect x="76" y="92" width="90" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.5"/>
+      <rect x="76" y="108" width="60" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.3"/>
+      <rect x="30" y="134" width="170" height="46" rx="10" fill="#F5A623" fill-opacity="0.18" stroke="#FFD27D" stroke-opacity="0.5"/>
+      <circle cx="52" cy="157" r="14" fill="#FFB347"/>
+      <rect x="76" y="146" width="80" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.7"/>
+      <rect x="76" y="162" width="54" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.4"/>
+      <rect x="30" y="188" width="170" height="46" rx="10" fill="#FFFFFF" fill-opacity="0.06"/>
+      <circle cx="52" cy="211" r="14" fill="#6C2BD9" fill-opacity="0.8"/>
+      <rect x="76" y="200" width="86" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.5"/>
+      <rect x="76" y="216" width="58" height="7" rx="3.5" fill="#FFFFFF" fill-opacity="0.3"/>
+      <rect x="30" y="248" width="170" height="24" rx="12" fill="url(#gold2)"/>
+      <text x="115" y="265" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="800" fill="#3A1D00" text-anchor="middle" letter-spacing="1">ORDER NOW</text>
+
+      <!-- floating 3D dish (bobs; ring rotates) -->
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="3.5s" repeatCount="indefinite"/>
+        <g transform="translate(182,4)">
+          <g>
+            <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="9s" repeatCount="indefinite"/>
+            <circle r="40" fill="none" stroke="#FFD27D" stroke-width="2" stroke-dasharray="6 8" opacity="0.8"/>
+          </g>
+          <ellipse cx="0" cy="12" rx="34" ry="11" fill="#FFFFFF" fill-opacity="0.15"/>
+          <path d="M -26 12 A 26 22 0 0 1 26 12 Z" fill="url(#gold2)"/>
+          <circle cx="0" cy="0" r="5" fill="#FF6B4A"/>
+          <rect x="-24" y="28" width="48" height="16" rx="8" fill="#160925" stroke="#FFD27D" stroke-opacity="0.6"/>
+          <text x="0" y="40" font-family="'Segoe UI',Arial,sans-serif" font-size="10" font-weight="800" fill="#FFE0A3" text-anchor="middle" letter-spacing="1">3D · AR</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- QR card -->
+    <g transform="translate(430,262)">
+      <rect x="0" y="0" width="120" height="120" rx="16" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFD27D" stroke-opacity="0.4" stroke-width="2">
+        <animate attributeName="stroke-opacity" values="0.2;0.85;0.2" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <g fill="#FFE0A3" transform="translate(30,22)">
+        <rect x="0" y="0" width="14" height="14" rx="2"/><rect x="20" y="2" width="8" height="8" rx="2"/><rect x="42" y="0" width="14" height="14" rx="2"/>
+        <rect x="2" y="20" width="8" height="8" rx="2"/><rect x="24" y="18" width="10" height="10" rx="2"/><rect x="46" y="22" width="8" height="8" rx="2"/>
+        <rect x="0" y="42" width="14" height="14" rx="2"/><rect x="22" y="42" width="8" height="8" rx="2"/><rect x="42" y="42" width="14" height="14" rx="2"/>
+      </g>
+      <text x="60" y="110" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="700" fill="#FFFFFF" fill-opacity="0.85" text-anchor="middle" letter-spacing="1">SCAN TO ORDER</text>
+    </g>
+
+    <!-- connector -->
+    <path d="M 362 230 C 490 230, 520 150, 636 140" fill="none" stroke="#FFD27D" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="4 6"/>
+
+    <!-- feature chips: static position + inner bob -->
+    <g transform="translate(636,100)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="4s" repeatCount="indefinite"/>
+        <rect width="250" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFD27D" stroke-opacity="0.3"/>
+        <rect x="20" y="22" width="40" height="36" rx="6" fill="#160925" stroke="#FF6B4A" stroke-width="2"/>
+        <path d="M 30 32 l 8 0 M 30 42 l 16 0 M 30 50 l 12 0" stroke="#FF6B4A" stroke-width="2" fill="none"/>
+        <text x="80" y="40" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">Kitchen Display</text>
+        <text x="80" y="60" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#E9D5FF">Live KDS · zero paper tickets</text>
+      </g>
+    </g>
+    <g transform="translate(636,192)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="4.6s" begin="0.6s" repeatCount="indefinite"/>
+        <rect width="250" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFD27D" stroke-opacity="0.3"/>
+        <rect x="20" y="26" width="44" height="30" rx="5" fill="#6C2BD9"/>
+        <rect x="20" y="34" width="44" height="7" fill="#160925"/>
+        <text x="80" y="42" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">Integrated POS</text>
+        <text x="80" y="62" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#E9D5FF">Payments · one dashboard</text>
+      </g>
+    </g>
+    <g transform="translate(636,284)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0 0; 0 -12; 0 0" dur="5.2s" begin="1.1s" repeatCount="indefinite"/>
+        <rect width="250" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.10" stroke="#FFD27D" stroke-opacity="0.3"/>
+        <g transform="translate(22,22)">
+          <rect x="0" y="24" width="9" height="14" rx="2" fill="#3FE08A"/>
+          <rect x="14" y="12" width="9" height="26" rx="2" fill="#FFB347"/>
+          <rect x="28" y="4" width="9" height="34" rx="2" fill="#FF6B4A"/>
+        </g>
+        <text x="80" y="40" font-family="'Segoe UI',Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">AI Analytics</text>
+        <text x="80" y="60" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#E9D5FF">Marketing · insights that sell</text>
+      </g>
+    </g>
+
+    <!-- sheen -->
+    <rect x="-320" y="0" width="320" height="420" fill="url(#sheen)">
+      <animate attributeName="x" values="-320;1200" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
