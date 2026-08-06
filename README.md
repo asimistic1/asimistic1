@@ -1,59 +1,73 @@
-<h1 align="center">Hi, I'm Asim Ibn.e Falak👋</h1>
-
-<h3 align="center">Founder of OmniMenu · Full-Stack Developer · AI Agent Builder</h3>
-
+<!-- ============ BANNER ============ -->
 <p align="center">
-  Building <a href="https://omnimenu.one">OmniMenu</a> — Pakistan's first restaurant operating system.<br/>
-  I ship production web apps in any stack, and I build with AI agents & prompt engineering at the core.
+  <img src="assets/banner.svg" alt="OmniMenu — Pakistan's First Restaurant Operating System" width="100%"/>
 </p>
 
+<!-- ============ NAME ============ -->
+<h2 align="center">Hi, I'm Asim Ibn.e Falak 👋</h2>
+
+<!-- ============ ANIMATED HEADLINE ============ -->
 <p align="center">
   <a href="https://omnimenu.one">
-    <img src="https://img.shields.io/badge/OmniMenu-Live_Product-6C2BD9?style=for-the-badge&logo=rocket&logoColor=white" alt="OmniMenu"/>
-  </a>
-  <a href="mailto:founder@omnimenu.one">
-    <img src="https://img.shields.io/badge/founder@omnimenu.one-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Founder Email"/>
-  </a>
-  <a href="mailto:asimfalak120@gmail.com">
-    <img src="https://img.shields.io/badge/asimfalak120@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=800&color=F5A623&center=true&vCenter=true&width=650&height=48&lines=Founder+%40+OmniMenu;Full-Stack+Developer+%E2%80%94+any+stack%2C+any+setup;AI+Agent+Builder+%26+Prompt+Engineer;Turning+restaurants+fully+digital" alt="Typing headline"/>
   </a>
 </p>
 
----
+<!-- ============ LEAD-GEN CTAs ============ -->
+<p align="center">
+  <a href="https://omnimenu.one">
+    <img src="https://img.shields.io/badge/🌐_Visit_OmniMenu-6C2BD9?style=for-the-badge&logoColor=white" alt="Visit OmniMenu"/>
+  </a>
+  <a href="mailto:founder@omnimenu.one?subject=OmniMenu%20Demo%20Request">
+    <img src="https://img.shields.io/badge/📅_Book_a_Demo-FF6B4A?style=for-the-badge&logoColor=white" alt="Book a Demo"/>
+  </a>
+  <a href="mailto:founder@omnimenu.one">
+    <img src="https://img.shields.io/badge/✉️_Contact_Sales-F5A623?style=for-the-badge&logoColor=white" alt="Contact"/>
+  </a>
+</p>
 
-### 🚀 About me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asimistic1&color=6C2BD9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
-- 🏗️ **Founder & lead developer of [OmniMenu](https://omnimenu.one)** — Pakistan's first complete restaurant operating system: immersive **3D & AR menus**, **QR ordering**, **KDS**, **POS**, and **AI-driven marketing & analytics**, all in one platform.
-- 💻 **Full-stack developer** — I can architect and ship a production website in **any language and any setup**, front to back.
-- 🤖 **AI & agents** — building autonomous **AI agents**, advancing my **prompt engineering**, and exploring the deeper edge of applied AI and tooling.
-- 🎯 Focused on turning complex products into clean, fast, genuinely useful software.
-- 📫 Reach me at **founder@omnimenu.one** or **asimfalak120@gmail.com**
+<br/>
 
----
+<!-- ============ ABOUT ============ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About me
 
-### ⭐ Flagship project
+<table>
+<tr><td>
+
+- 🏗️ &nbsp;**Founder & lead developer of [OmniMenu](https://omnimenu.one)** — Pakistan's first complete restaurant operating system.
+- 💻 &nbsp;**Full-stack developer** — I architect and ship production websites in **any language, any setup**, front to back.
+- 🤖 &nbsp;**AI & agents** — building autonomous **AI agents**, sharpening **prompt engineering**, and exploring applied deep AI.
+- 🎯 &nbsp;I turn complex products into **clean, fast, genuinely useful** software.
+- 📫 &nbsp;Reach me: **founder@omnimenu.one** &nbsp;·&nbsp; **asimfalak120@gmail.com**
+
+</td></tr>
+</table>
+
+<!-- ============ FLAGSHIP ============ -->
+## 🍽️ &nbsp;Flagship — OmniMenu
+
+> **The all-in-one operating system for modern restaurants.** Everything below runs on one platform.
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>🍽️ <a href="https://omnimenu.one">OmniMenu</a> — Restaurant Operating System</h3>
-      <p>
-        Pakistan's first all-in-one restaurant OS. Immersive <b>3D &amp; AR menus</b>,
-        <b>QR ordering</b>, a live <b>Kitchen Display System</b>, integrated <b>POS</b>,
-        and <b>AI marketing &amp; analytics</b> — everything a modern restaurant needs on one platform.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Live-16A34A?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Role-Founder-6C2BD9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Type-SaaS-0EA5E9?style=flat-square"/>
-      </p>
-    </td>
+    <td align="center" width="20%">🕶️<br/><b>3D & AR Menus</b><br/><sub>Immersive dishes</sub></td>
+    <td align="center" width="20%">📱<br/><b>QR Ordering</b><br/><sub>Scan &amp; order</sub></td>
+    <td align="center" width="20%">🍳<br/><b>Kitchen Display</b><br/><sub>Live KDS</sub></td>
+    <td align="center" width="20%">💳<br/><b>POS</b><br/><sub>Integrated payments</sub></td>
+    <td align="center" width="20%">🤖<br/><b>AI Analytics</b><br/><sub>Marketing &amp; insights</sub></td>
   </tr>
 </table>
 
----
+<p align="center">
+  <a href="https://omnimenu.one"><img src="https://img.shields.io/badge/Explore_the_platform_→-1A0B2E?style=for-the-badge" alt="Explore"/></a>
+</p>
 
-### 🛠️ Tech stack
+<!-- ============ TECH STACK ============ -->
+## 🛠️ &nbsp;Tech stack
 
 **Languages**
 
@@ -93,7 +107,7 @@
 **AI & Agents**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
@@ -109,19 +123,21 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub stats
+<!-- ============ STATS ============ -->
+## 📊 &nbsp;GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asimistic1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimistic1&layout=compact&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=asimistic1&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimistic1&layout=compact&hide_border=true&theme=midnight-purple&langs_count=8" />
+</p>
+
+<!-- ============ FOOTER ============ -->
+<br/>
+<p align="center">
+  <a href="https://omnimenu.one"><img src="https://img.shields.io/badge/Ready_to_digitize_your_restaurant%3F_Let's_talk_→-FF6B4A?style=for-the-badge" alt="CTA"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimistic1&hide_border=true" height="165" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:6C2BD9,100:C0367F&height=110&section=footer&reversal=false"/>
 </p>
-
----
-
-<p align="center"><i>Building useful software — and the AI agents that make it smarter.</i></p>
